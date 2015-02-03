@@ -6,7 +6,7 @@ Don't we all know [Docker](https://www.docker.com/) by now? In short, Docker is 
 OneHippo provides a nice demonstration of HippoCMS by providing the GoGreen community and enterprise demo. This lab will focus on creating a Docker image, containing a fully functional Hippo GoGreen demonstration suite (or any other HippoCMS implementation). I'll be focusing on developing, shipping and running a Docker image for Hippo GoGreen. 
 
 ####Lab prerequisites
-To get started with this lab, make sure you've installed Docker on your local system. To install Docker, follow the [installation instructions](https://docs.docker.com/installation/#installation) provided by Docker.
+To get started with this lab, make sure you've installed Docker on your local system. To install Docker, follow the [installation instructions](https://docs.docker.com/installation/#installation) provided by Docker. Also, make sure the the Docker Engine is started (check your system services)!
 
 ----
 ##Putting Hippo in a Docker container
